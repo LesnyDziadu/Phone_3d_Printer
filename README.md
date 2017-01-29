@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Py6-OpMvx64&t=639s
 
 https://www.youtube.com/watch?v=qCe2RYPE5Hs
 
-Hardwer connection contain how to connect A4988 steper motor controler and BT HC-06 adapter. Teoreticli it should work :) Didnt check whit steper motor connected - waiting for parts to do that
+Hardwer connection contain how to connect A4988 steper motor controler and BT HC-06 adapter. Theoretically it should work :) Didnt check whit steper motor connected - waiting for parts to do that
